@@ -142,15 +142,9 @@
         </li>
       </ul>
     </section>
-    <section class="education">
-      <h1>Education</h1>
-      <ul>
-        <li>Bachelor of Science in Computer Science and Engineering</li>
-      </ul>
-      <ul>
-        <li>Institute of Science and Technology.</li>
-      </ul>
-    </section>
+    ## Education
+- Bachelor of Science in Computer Science and Engineering
+  - Institute of Science and Technology.
     <section class="contact">
       <h1>Connect with Me</h1>
       <ul>
