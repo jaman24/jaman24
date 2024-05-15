@@ -97,34 +97,25 @@
         <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/python.png"
         />
+      </p>
+      <p align="center">
         <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/c.png"
         />
         <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/cpp.png"
         />
-      </p>
-      <p align="center">
         <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/react.png"
         />
         <img
-          src="https://github.com/jaman24/jaman24/blob/main/images/icons/redux.png"
-        />
-        <img
-          src="https://github.com/jaman24/jaman24/blob/main/images/icons/sass.png"
-        />
-        <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/tailwind.png"
-        />
-        <img
-          src="https://github.com/jaman24/jaman24/blob/main/images/icons/Bootsrap.png"
-        />
-        <img
-          src="https://github.com/jaman24/jaman24/blob/main/images/icons/firebase.png"
         />
       </p>
       <p align="center">
+        <img
+          src="https://github.com/jaman24/jaman24/blob/main/images/icons/Bootsrap.png"
+        />
         <img
           src="https://github.com/jaman24/jaman24/blob/main/images/icons/node.png"
         />
