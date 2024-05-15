@@ -149,7 +149,7 @@
       <ul>
         <li>Bachelor of Science in Computer Science and Engineering</li>
       </ul>
-        <p>                  Institute of Science and Technology.</p>
+        <p margin-left:20px>Institute of Science and Technology.</p>
     </section>
     <section class="contact">
       <h1>Connect with Me</h1>
