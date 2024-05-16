@@ -137,7 +137,12 @@
         </li>
         <li>
           <p>
-            Genius - This is a Web base static site with HTML, CSS, Bootstrap.
+            Analog Clock - Analog Clock using HTML, CSS and Javascript.
+          </p>
+        </li>
+        <li>
+          <p>
+            Genius - This is a Web base static site with HTML, CSS and Bootstrap.
           </p>
         </li>
       </ul>
