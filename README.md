@@ -60,7 +60,7 @@
           </p>
         </li>
         <li>
-          <p>Atcoder: <a href="https://atcoder.jp/users/Jaman"></a>Atcoder Profole</p>
+          <p>Atcoder: <a href="https://atcoder.jp/users/Jaman">Atcoder Profole</a></p>
         </li>
         <li>
           <p>
